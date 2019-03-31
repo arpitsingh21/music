@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicMuniAssignment</string>
+    <string name="reviewed">Reviewed</string>
+    <string name="notReviewed">Not Reviewed</string>
+</resources>
